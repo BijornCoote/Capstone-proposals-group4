@@ -2,7 +2,6 @@
     - Should tell forecast (3-10 days)
     - Should give current weather etc.
     
+2)Create a Calculator
+It should do basic  calculation. It should also save the data and user can always look back at the prevous calculation.
 
-2) Create a Calculator
-  -It should do basic calculation.
-  -It should store previous calculations.
