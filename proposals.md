@@ -2,4 +2,6 @@
     - Should tell forecast (3-10 days)
     - Should give current weather etc.
     
-vgdsvkevkeajd
+#Create a Calculator
+* It should do basic  calculation.
+* It should store previous calculations.
