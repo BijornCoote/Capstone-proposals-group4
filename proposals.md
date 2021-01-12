@@ -6,5 +6,5 @@
 It should do basic  calculation. It should also save the data and user can always look back at the prevous calculation.
 
 3)Create a Chat App
-- Able to communicate with friends, families, co-workers
--Possibly be able to send media and files. 
+   - Able to communicate with friends, families, co-workers
+    -Possibly be able to send media and files. 
