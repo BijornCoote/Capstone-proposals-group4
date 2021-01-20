@@ -5,3 +5,9 @@ For the user to enter in two or more numbers to either add, subtract, multiply o
 
 ## High level features / user stories
 As a user, I want either add, subtract, multiply or divide two or more numbers so that a user can see the result number.
+
+## Detailed sketches
+![Sketche of a Calculator](Calculator1.jpg)
+
+##
+
